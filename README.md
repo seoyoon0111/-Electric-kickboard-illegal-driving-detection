@@ -20,7 +20,7 @@ FinalProject
 ![스크린샷(376)](https://user-images.githubusercontent.com/65655570/215667217-14cc1ff0-bee6-4fe8-9793-1e3106621efe.png)
 
 
-## CNN 3 classes Model
+## CNN 3 classes(driveway/sidewalk/bicycle road) Model
 - Model Process
 
 ![cnn_model_yoon](https://user-images.githubusercontent.com/65655570/215667293-71ed8870-a035-4f72-9674-8617bc820c8a.png)
@@ -31,6 +31,6 @@ FinalProject
 ![cnn_model_acc_yoon](https://user-images.githubusercontent.com/65655570/215667559-4497dc2d-07b2-4a2f-aaad-9b2c133e2433.png)
 ![cnn_model_loss_yoon](https://user-images.githubusercontent.com/65655570/215667583-c0cc3830-33e9-43f0-a3dd-2e40d7f4bb72.png)
 
-- Model Test
+- Model Test(3 classes -> 2 classes ) passible/impassible
 ![cnn_model_test_2classes](https://user-images.githubusercontent.com/65655570/215667694-55cc9ffb-0428-43a6-ba3d-08b8ba2fac03.png)
 
